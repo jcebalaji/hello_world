@@ -1,2 +1,2 @@
-# hello_world
-my first test Repo
+Hi !!!
+Finally started with GIT. :)
